@@ -1,3 +1,3 @@
 ﻿# piano-users-assessment
 
-The script requires PANDAS.
+The script requires modules pandas and requests.
